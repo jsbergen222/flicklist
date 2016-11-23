@@ -7,35 +7,32 @@
 	margin-bottom: 1%;
 }
 
-
 #section-watchlist li {
 	padding: 0px;
 	margin: 0px 4% 4% 0px;
 	width: 140px;
 }
 
-
 #section-watchlist li button {
 	width: 100%;
 	margin-top: 10px;
 }
 
-
 #section-watchlist ul {
 	text-align: center;
 }
-
 
 .main-content {
 	color: gray;
 }
 
 #section-browse {
-	background: black;
+	background: blue;
 }
 
 #section-browse form {
 	margin-bottom: 2%;
+	background: red;
 }
 
 section header {
@@ -44,4 +41,20 @@ section header {
 
 section {
 	padding: 2%;
+}
+
+#browse-carousel {
+    max-width: 300px;
+    margin: auto;
+}
+
+.well {
+	background: red;
+	color: white;
+	border-width: 0px;
+}
+
+#add-to-watchlist {
+	width: 90%;
+	margin-left: 5%;
 }
